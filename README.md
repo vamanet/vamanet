@@ -1,72 +1,82 @@
 <div align="center">
-  <h1>Hi there, I'm Va Manet! 👋</h1>
-  <p><strong>Full-Stack Software Developer | Crafting robust backends & dynamic frontends</strong></p>
+
+# 👋 Hey, I'm Va Manet
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Student;JavaScript+Learner;Microservices+Explorer" />
+
 </div>
 
-<hr />
+---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 <ul>
-  <li>🔭 <strong>Currently working on:</strong> Building scalable CRUD web applications using Laravel, Vue 3, and Vite.</li>
-  <li>🌱 <strong>Learning & Exploring:</strong> Advanced API architecture, performance optimization, and modern state management.</li>
-  <li>👯 <strong>Looking to collaborate on:</strong> Open-source Laravel packages or Vue.js components.</li>
-  <li>⚡ <strong>Fun fact:</strong> I have an eye for precision, whether configuring system logic or styling clean pixel-perfect interfaces.</li>
+  <li>💻 Passionate about Web Development</li>
+  <li>🌱 Currently learning Vue.js, Laravel & Microservices</li>
+  <li>🛠️ Love building backend systems and clean UI</li>
+  <li>🎬 Also interested in video editing & tech content</li>
 </ul>
 
-<hr />
+---
 
-## 🛠️ Tech Stack & Tools
+<h2>🛠️ Tech Stack</h2>
 
-<table>
-  <tr>
-    <td width="30%"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Dev Environment</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,java,html,css,vue,laravel,mysql,git,vscode" />
+</p>
 
-<hr />
+---
 
-## 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/vamanet">
-    <img src="https://github-readme-stats.vercel.app/api?username=vamanet&show_icons=true&theme=radical&include_all_commits=true" alt="Vamanet's GitHub Stats" height="160px" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/vamanet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanet&layout=compact&theme=radical" alt="Top Languages" height="160px" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamanet&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanet&layout=compact&theme=tokyonight" />
+
 </div>
 
-<hr />
+---
 
-## 📫 Connect with Me
+<h2>🚀 Current Projects</h2>
 
-<div align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<ul>
+  <li>🚗 Smart Parking System using Microservices</li>
+  <li>🗄️ MySQL Database Management</li>
+  <li>🌐 Full Stack Web Applications</li>
+</ul>
+
+---
+
+<h2>🌍 Connect With Me</h2>
+
+<p>
+  <a href="https://github.com/vamanet">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+I can debug for 5 hours just to realize I forgot one semicolon 😭
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vamanet&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
